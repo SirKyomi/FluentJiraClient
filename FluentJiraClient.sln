@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentJiraClient", "FluentJiraClient\FluentJiraClient.csproj", "{905826BB-22E7-48DE-9F08-60C3B23FFD5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentJiraClient.Test", "FluentJiraClient.Test\FluentJiraClient.Test.csproj", "{B4E6024B-A5AC-4665-BB61-87F5CB18FDCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905826BB-22E7-48DE-9F08-60C3B23FFD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905826BB-22E7-48DE-9F08-60C3B23FFD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905826BB-22E7-48DE-9F08-60C3B23FFD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905826BB-22E7-48DE-9F08-60C3B23FFD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E6024B-A5AC-4665-BB61-87F5CB18FDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E6024B-A5AC-4665-BB61-87F5CB18FDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E6024B-A5AC-4665-BB61-87F5CB18FDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E6024B-A5AC-4665-BB61-87F5CB18FDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
